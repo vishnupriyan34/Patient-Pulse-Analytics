@@ -1,0 +1,33 @@
+patient_id,first_name,last_name,date_of_birth,gender,admission_date,discharge_date,department,attending_doctor,primary_diagnosis,systolic_bp,diastolic_bp,heart_rate,oxygen_saturation,temperature_f,med_adherence_pct,readmission_flag
+PT-10001,John,Smith,1956-04-12,Male,2026-05-10,2026-05-15,Cardiology,Dr. Alice Gregory,Heart Failure,142,88,82,94,98.6,82,False
+PT-10002,Sarah,Johnson,1984/08/23,Female,10/12/2025,10/18/2025,Neurology,Dr. Charles Xavier,Stroke,135,84,72,97,98.2,90,False
+PT-10003,Michael,Williams,05-18-1972,Male,2026-06-01,2026-06-08,Pulmonology,Dr. Stephen Strange,COPD,118,76,88,,99.1,64,True
+pt-10004,Emily,Brown,1991-11-05,Female,2026-06-15,,Emergency,Dr. Meredith Grey,Chest Pain,120 mmHg,80,95,98,98.8,,False
+PT-10005,Robert,Jones,1948-03-30,Male,2026-05-20,2026-05-25,Cardiology,Dr. Alice Gregory,Myocardial Infarction,205,115,110,89,102.6,45,True
+PT-10005,Robert,Jones,1948-03-30,Male,2026-05-20,2026-05-25,Cardiology,Dr. Alice Gregory,Myocardial Infarction,205,115,110,89,102.6,45,True
+PT-10006,Elena,Rostova,1993.07.12,Female,2026-06-10,2026-06-12,Obstetrics,Dr. Michaela Quinn,Pregnancy Supervision,115,70,68,99,98.4,95,False
+PT-10007,Marcus,Vance,1945-09-18,Male,2026-05-02,2026-05-12,  ICU ,Dr. Leonard McCoy,Sepsis,88,52,118,91,103.2,78,True
+PT-10008,Chloe,Miller,2002-12-05,Female,2026-06-20,,Emergency,Dr. Meredith Grey,Acute Abdomen,110,72,92,97,99.5,88,False
+PT-10009,David,Davis,1968-01-25,Male,2026-06-05,2026-06-10,Oncology,Dr. Meredith Grey,Lung Cancer,130,82,80,95,98.7,85,False
+PT-10010,Jessica,Rodriguez,1980-06-14,Other,2026-06-12,2026-06-14,Neurology,Dr. Charles Xavier,Migraine,120,80,74,98,98.6,100,False
+PT-10011,James,Martinez,1975-02-28,Male,2026-05-22,2026-05-28,cardiology,Dr. Alice Gregory,Arrhythmia,138,85,95,96,98.9,70,False
+PT-10012,Linda,Hernandez,1962-10-09,Female,2026-06-04,,ICU,Dr. Leonard McCoy,Respiratory Failure,95,58,125,86,101.8,,True
+PT-10013,William,Lopez,1959-11-22,Male,2026-05-15,2026-05-22,Oncology,Dr. Meredith Grey,Colorectal Cancer,,80,75,98,98.5,90,False
+PT-10014,Elizabeth,Gonzalez,1989-08-30,Female,2026-06-18,2026-06-22,Obstetrics,Dr. Michaela Quinn,Pregnancy Supervision,122,78,70,99,98.1,98,False
+PT-10015,Joseph,Wilson,1953-07-04,Male,2026-06-02,2026-06-09,Cardiology,Dr. Robert House,Heart Failure,148,92,85,93,98.8,60,True
+PT-10016,Karen,Anderson,1967-03-17,Female,2026-06-08,2026-06-11,Orthopedics,Dr. Michaela Quinn,Osteoarthritis,125,82,78,98,98.4,92,False
+PT-10017,Thomas,Taylor,1970-12-15,Male,2026-05-28,2026-06-02,Pulmonology,Dr. Stephen Strange,COPD,122,80,90,92,99.2,74,False
+PT-10018,Nancy,Moore,1981-05-25,Female,2026-06-16,,Emergency,Dr. Meredith Grey,Fracture,116,74,80,98,98.5,85,False
+PT-10019,Charles,Jackson,1944-09-02,Male,2026-05-18,2026-05-29,ICU,Dr. Leonard McCoy,Shock,82,48,135,88,104.1,50,True
+PT-10020,Lisa,Martin,1990-01-20,Female,2026-06-14,2026-06-15,Obstetrics,Dr. Michaela Quinn,Hyperemesis Gravidarum,112,70,82,99,98.3,96,False
+PT-10020,Lisa,Martin,1990-01-20,Female,2026-06-14,2026-06-15,Obstetrics,Dr. Michaela Quinn,Hyperemesis Gravidarum,112,70,82,99,98.3,96,False
+PT-10021,Daniel,Lee,1973-10-31,Male,2026-06-03,2026-06-10,Neurology,Dr. Charles Xavier,Stroke,155,94,80,96,98.8,80,False
+PT-10022,Betty,Perez,1940-02-14,Female,2026-05-24,2026-05-30,Cardiology,Dr. Robert House,Hypertension,170,102,76,95,98.7,68,True
+PT-10023,Matthew,Thompson,1985-04-05,Male,2026-06-11,,Emergency,Dr. Meredith Grey,Laceration,120,80,84,98,98.6,92,False
+PT-10024,Margaret,White,1965-06-22,Female,2026-06-01,2026-06-05,Oncology,Dr. Meredith Grey,Breast Cancer,115,75,72,99,98.2,95,False
+PT-10025,Anthony,Harris,1950-08-11,Male,2026-05-30,2026-06-05,Cardiology,Dr. Alice Gregory,Myocardial Infarction,150,90,92,94,99.0,72,True
+PT-10026,Sandra,Sanchez,1992-09-03,Female,2026-06-07,2026-06-09,Obstetrics,Dr. Michaela Quinn,Pregnancy Supervision,118,72,74,99,98.5,100,False
+PT-10027,Mark,Clark,1978-01-14,Male,2026-06-09,,Emergency,Dr. Meredith Grey,Acute Abdomen,132,85,88,96,99.3,85,False
+PT-10028,Ashley,Ramirez,1988-11-20,Female,2026-06-13,2026-06-17,Neurology,Dr. Charles Xavier,Multiple Sclerosis,124,78,76,98,98.4,90,False
+PT-10029,Donald,Lewis,1957-04-18,Male,2026-05-12,2026-05-20,Orthopedics,Dr. Michaela Quinn,Herniated Disc,130,80,72,97,98.3,88,False
+PT-10030,Dorothy,Robinson,1949-07-29,Female,2026-05-25,,ICU,Dr. Leonard McCoy,Sepsis,90,55,115,90,103.0,75,True
