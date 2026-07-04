@@ -163,7 +163,7 @@ The dashboard is displayed only after all data preparation steps are completed.
 This project is for educational purposes.
 
 ---
-👨‍💻 Author
-Vishnu Priyan S,
+👨‍💻 Author:
+Vishnu Priyan.S,
 🎓 B.Tech Information Technology, 
 V.S.B College of Engineering Technical Campus, Coimbatore.
